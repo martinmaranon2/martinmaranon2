@@ -6,6 +6,11 @@ I'm interested in building AI tools that help people make decisions and get work
 
 ## Selected projects
 
+### [slide-tutor — Slide-Aware Study Assistant](https://github.com/martinmaranon2/slide-tutor)
+**Personal project.** A local study tool for lecture slides: drop a PDF into a subject folder and it writes study notes for every slide in advance, then answers questions in a chat bound to the slide you're reading. Each question automatically carries the slide image, its text and notes, and the neighbouring slides. Notes generation is resumable, cache-friendly and pauses on its own at plan limits; every deck also gets a printable A4 handout.
+
+*Python · FastAPI · PyMuPDF · Claude Agent SDK · JavaScript · KaTeX*
+
 ### [Resilix — Agentic Disaster Awareness](https://github.com/martinmaranon2/resilix)
 A team hackathon project combining hazard information, maps and conversational AI for disaster awareness and preparedness.
 
